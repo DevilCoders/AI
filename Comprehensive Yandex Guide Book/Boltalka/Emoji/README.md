@@ -180,3 +180,4 @@ clang++ --version
 4. Verify Compiler:
     - Ensure a ```C++ compiler``` is ```installed``` and ```accessible``` in your environment
     - Test by running ```g++ --version``` or ```clang++ --version``` in your terminal (Linux e.g. Ubuntu)
+    - Check CMake Installation if you work outside ```ya``` environment: ```cmake --version```shell
