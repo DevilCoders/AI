@@ -1,4 +1,4 @@
-# Yandex AI's and Other Assets
+# Complete Yandex IT-Corporation Reference Book
 
 ## Include AI's such as
 
