@@ -1,2 +1,16 @@
-# AI
-Include Random AI's such as RL, ML, DL, NN and Generative + Smart Devices (IoT) and Robotics
+# Yandex AI's and Other
+
+## Include AI's such as
+
+- **RL** (Reinforcement Learning)
+- **ML** (Machine Learning)
+- **DL** (Deep Learning)
+- **NN** (Neural Network)
+- Generative (**GPT**)
+- Smart Devices (**IoT**)
+
+# 
+
+##
+
+- 
