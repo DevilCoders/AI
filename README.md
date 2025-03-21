@@ -1,4 +1,4 @@
-# Complete AI reference book of the IT corporation Yandex.
+# Full AI reference book of the IT corporation Yandex.
 
 ## Include AI's such as
 
