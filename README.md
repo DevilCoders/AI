@@ -1,4 +1,4 @@
-# Yandex AI's and Other
+# Yandex AI's and Other Assets
 
 ## Include AI's such as
 
@@ -8,9 +8,3 @@
 - **NN** (Neural Network)
 - Generative (**GPT**)
 - Smart Devices (**IoT**)
-
-# 
-
-##
-
-- 
