@@ -54,13 +54,13 @@ PEERDIR(
 ```
 
 ### Dependency Tree
-Emoji Classifier
+```Emoji Classifier
 ├── TensorFlow Neural Network Model (alice/nlu/libs/tf_nn_model)
 ├── JSON Library (library/cpp/json)
 ├── TensorFlow
 ├── C++ Compiler (g++ or clang++)
 └── Yandex Build System (ya)
-
+```
 ---
 
 ### Required Dependencies
